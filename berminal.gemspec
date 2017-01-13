@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "berminal"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Ben Palmer"]
   spec.email         = ["benj.c.palmer@gmail.com"]
 
